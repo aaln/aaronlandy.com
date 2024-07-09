@@ -42,9 +42,9 @@ export default function Home() {
             className="underline duration-500 hover:text-zinc-300 cursor-pointer"
           >
             gearsupply.com
-          </Link>, ex-Uber, ex-cryptoproof, ex-crypto fund manager.
+          </Link>, ex-Uber, ex-Cryptoproof, ex-crypto fund manager.
           <br/>
-          Passionate about crypto, hacking, AI and the future distribution of energy.
+          Passionate about AI and the future distribution of energy.
         </h2>
       </div>
     </div>

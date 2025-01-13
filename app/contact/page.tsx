@@ -12,12 +12,6 @@ const socials = [
 		handle: "@1andyaaron",
 	},
 	{
-		icon: <Mail size={20} />,
-		href: "mailto:aaron@jumpstick.com",
-		label: "Email",
-		handle: "aaron@jumpstick.com",
-	},
-	{
 		icon: <Github size={20} />,
 		href: "https://github.com/aaln",
 		label: "Github",

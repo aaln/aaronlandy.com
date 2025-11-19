@@ -154,6 +154,16 @@ const config = {
 						opacity: "100%",
 					},
 				},
+				glow: {
+					"0%, 100%": {
+						opacity: "0.5",
+						filter: "blur(20px)",
+					},
+					"50%": {
+						opacity: "1",
+						filter: "blur(30px)",
+					},
+				},
       },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
@@ -162,6 +172,7 @@ const config = {
 				title: "title 3s ease-out forwards",
 				"fade-left": "fade-left 3s ease-in-out forwards",
 				"fade-right": "fade-right 3s ease-in-out forwards",
+				glow: "glow 3s ease-in-out infinite",
 
       },
     },
